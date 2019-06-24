@@ -17,6 +17,54 @@
         "sperreBeginn": "24.06.2019",
         "sperreEnde": "30.06.2019",
         "verlaengernErlaubt": true
+      },
+      "sperren": [
+      {
+        "bearbeiter": "XI05894",
+        "beendenErlaubt": true,
+        "belegNr": "",
+        "editZeile": null,
+        "endeSchluessel": "B",
+        "fehlerStatus": {"statusMeldungen": [{"statusCode": 100, "statusText": "OK"}]},
+        "information": "abc",
+        "sperrGrund": "Mahn-/FoMa-Stopp",
+        "sperrGrundSchluessel": "01",
+        "sperreAktiv": "JA",
+        "sperreBeginn": "24.06.2019",
+        "sperreEnde": "30.06.2019",
+        "verlaengernErlaubt": true
+      },
+      "sperren": [
+      {
+        "bearbeiter": "XI05894",
+        "beendenErlaubt": true,
+        "belegNr": "",
+        "editZeile": null,
+        "endeSchluessel": "B",
+        "fehlerStatus": {"statusMeldungen": [{"statusCode": 100, "statusText": "OK"}]},
+        "information": "abc",
+        "sperrGrund": "Mahn-/FoMa-Stopp",
+        "sperrGrundSchluessel": "01",
+        "sperreAktiv": "JA",
+        "sperreBeginn": "24.06.2019",
+        "sperreEnde": "30.06.2019",
+        "verlaengernErlaubt": true
+      },
+      "sperren": [
+      {
+        "bearbeiter": "XI05894",
+        "beendenErlaubt": true,
+        "belegNr": "",
+        "editZeile": null,
+        "endeSchluessel": "B",
+        "fehlerStatus": {"statusMeldungen": [{"statusCode": 100, "statusText": "OK"}]},
+        "information": "abc",
+        "sperrGrund": "Mahn-/FoMa-Stopp",
+        "sperrGrundSchluessel": "01",
+        "sperreAktiv": "JA",
+        "sperreBeginn": "24.06.2019",
+        "sperreEnde": "30.06.2019",
+        "verlaengernErlaubt": true
       }
     ]
   },

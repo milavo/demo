@@ -9,7 +9,7 @@
         "belegNr": "",
         "editZeile": null,
         "endeSchluessel": "B",
-        "fehlerStatus": {statusMeldungen: [{statusCode: 100, statusText: "OK"}]},
+        "fehlerStatus": {"statusMeldungen": [{"statusCode": 100, "statusText": "OK"}]},
         "information": "abc",
         "sperrGrund": "Mahn-/FoMa-Stopp",
         "sperrGrundSchluessel": "01",

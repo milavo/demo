@@ -4,6 +4,7 @@
     "fehlerStatus": {"statusMeldungen": [{"statusCode": 100, "statusText": "OK"}]},
     "sperren": [
       {
+        "id": 1
         "bearbeiter": "XI05894",
         "beendenErlaubt": true,
         "belegNr": "",
@@ -19,6 +20,7 @@
         "verlaengernErlaubt": true
       },
       {
+        "id": 2
         "bearbeiter": "XI05894",
         "beendenErlaubt": true,
         "belegNr": "",
@@ -34,6 +36,7 @@
         "verlaengernErlaubt": true
       },
       {
+        "id": 3  
         "bearbeiter": "XI05894",
         "beendenErlaubt": true,
         "belegNr": "",
@@ -49,6 +52,7 @@
         "verlaengernErlaubt": true
       },
       {
+        "id": 4
         "bearbeiter": "XI05894",
         "beendenErlaubt": true,
         "belegNr": "",

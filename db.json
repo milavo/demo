@@ -1,74 +1,180 @@
 {
-    "sperren": {
-    "dateFrom": "24.12.2018",
-    "fehlerStatus": {"statusMeldungen": [{"statusCode": 100, "statusText": "OK"}]},
-    "sperren": [
-      {
-        "id": "1",
-        "bearbeiter": "XI05894",
-        "beendenErlaubt": true,
-        "belegNr": "",
-        "editZeile": null,
-        "endeSchluessel": "B",
-        "fehlerStatus": {"statusMeldungen": [{"statusCode": 100, "statusText": "OK"}]},
-        "information": "abc",
-        "sperrGrund": "Mahn-/FoMa-Stopp",
-        "sperrGrundSchluessel": "01",
-        "sperreAktiv": "JA",
-        "sperreBeginn": "24.06.2019",
-        "sperreEnde": "30.06.2019",
-        "verlaengernErlaubt": true
-      },
-      {
-        "id": "2",
-        "bearbeiter": "XI05894",
-        "beendenErlaubt": true,
-        "belegNr": "",
-        "editZeile": null,
-        "endeSchluessel": "B",
-        "fehlerStatus": {"statusMeldungen": [{"statusCode": 100, "statusText": "OK"}]},
-        "information": "abc",
-        "sperrGrund": "Mahn-/FoMa-Stopp",
-        "sperrGrundSchluessel": "01",
-        "sperreAktiv": "JA",
-        "sperreBeginn": "24.06.2019",
-        "sperreEnde": "30.06.2019",
-        "verlaengernErlaubt": true
-      },
-      {
-        "id": "3",
-        "bearbeiter": "XI05894",
-        "beendenErlaubt": true,
-        "belegNr": "",
-        "editZeile": null,
-        "endeSchluessel": "B",
-        "fehlerStatus": {"statusMeldungen": [{"statusCode": 100, "statusText": "OK"}]},
-        "information": "abc",
-        "sperrGrund": "Mahn-/FoMa-Stopp",
-        "sperrGrundSchluessel": "01",
-        "sperreAktiv": "JA",
-        "sperreBeginn": "24.06.2019",
-        "sperreEnde": "30.06.2019",
-        "verlaengernErlaubt": true
-      },
-      {
-        "id": "4",
-        "bearbeiter": "XI05894",
-        "beendenErlaubt": true,
-        "belegNr": "",
-        "editZeile": null,
-        "endeSchluessel": "B",
-        "fehlerStatus": {"statusMeldungen": [{"statusCode": 100, "statusText": "OK"}]},
-        "information": "abc",
-        "sperrGrund": "Mahn-/FoMa-Stopp",
-        "sperrGrundSchluessel": "01",
-        "sperreAktiv": "JA",
-        "sperreBeginn": "24.06.2019",
-        "sperreEnde": "30.06.2019",
-        "verlaengernErlaubt": true
-      }
-    ]
-  },
+	"sperren": {
+		"dateFrom": "27.12.2018",
+		"sperren": [
+			{
+				"sperreAktiv": "JA",
+				"belegNr": "500000760164",
+				"sperrGrundSchluessel": "01",
+				"sperrGrund": "Mahn-/FoMa-Stopp",
+				"bearbeiter": "KINEXBPM",
+				"sperreBeginn": "17.06.2019",
+				"sperreEnde": "01.07.2019",
+				"information": "",
+				"verlaengernErlaubt": false,
+				"beendenErlaubt": false,
+				"editZeile": null,
+				"fehlerStatus": {
+					"statusMeldungen": [
+						{
+							"statusCode": 100,
+							"statusText": "OK"
+						}
+					]
+				},
+				"endeSchluessel": "A"
+			},
+			{
+				"sperreAktiv": "JA",
+				"belegNr": "500000760165",
+				"sperrGrundSchluessel": "01",
+				"sperrGrund": "Mahn-/FoMa-Stopp",
+				"bearbeiter": "KINEXBPM",
+				"sperreBeginn": "17.06.2019",
+				"sperreEnde": "01.07.2019",
+				"information": "",
+				"verlaengernErlaubt": false,
+				"beendenErlaubt": false,
+				"editZeile": null,
+				"fehlerStatus": {
+					"statusMeldungen": [
+						{
+							"statusCode": 100,
+							"statusText": "OK"
+						}
+					]
+				},
+				"endeSchluessel": "A"
+			},
+			{
+				"sperreAktiv": "JA",
+				"belegNr": "500000760166",
+				"sperrGrundSchluessel": "01",
+				"sperrGrund": "Mahn-/FoMa-Stopp",
+				"bearbeiter": "KINEXBPM",
+				"sperreBeginn": "17.06.2019",
+				"sperreEnde": "01.07.2019",
+				"information": "",
+				"verlaengernErlaubt": false,
+				"beendenErlaubt": false,
+				"editZeile": null,
+				"fehlerStatus": {
+					"statusMeldungen": [
+						{
+							"statusCode": 100,
+							"statusText": "OK"
+						}
+					]
+				},
+				"endeSchluessel": "A"
+			},
+			{
+				"sperreAktiv": "JA",
+				"belegNr": "500000760167",
+				"sperrGrundSchluessel": "01",
+				"sperrGrund": "Mahn-/FoMa-Stopp",
+				"bearbeiter": "KINEXBPM",
+				"sperreBeginn": "17.06.2019",
+				"sperreEnde": "01.07.2019",
+				"information": "",
+				"verlaengernErlaubt": false,
+				"beendenErlaubt": false,
+				"editZeile": null,
+				"fehlerStatus": {
+					"statusMeldungen": [
+						{
+							"statusCode": 100,
+							"statusText": "OK"
+						}
+					]
+				},
+				"endeSchluessel": "A"
+			},
+			{
+				"sperreAktiv": "JA",
+				"belegNr": "500000760168",
+				"sperrGrundSchluessel": "01",
+				"sperrGrund": "Mahn-/FoMa-Stopp",
+				"bearbeiter": "KINEXBPM",
+				"sperreBeginn": "17.06.2019",
+				"sperreEnde": "01.07.2019",
+				"information": "",
+				"verlaengernErlaubt": false,
+				"beendenErlaubt": false,
+				"editZeile": null,
+				"fehlerStatus": {
+					"statusMeldungen": [
+						{
+							"statusCode": 100,
+							"statusText": "OK"
+						}
+					]
+				},
+				"endeSchluessel": "A"
+			},
+			{
+				"sperreAktiv": "JA",
+				"belegNr": "500000760169",
+				"sperrGrundSchluessel": "01",
+				"sperrGrund": "Mahn-/FoMa-Stopp",
+				"bearbeiter": "KINEXBPM",
+				"sperreBeginn": "17.06.2019",
+				"sperreEnde": "01.07.2019",
+				"information": "",
+				"verlaengernErlaubt": false,
+				"beendenErlaubt": false,
+				"editZeile": null,
+				"fehlerStatus": {
+					"statusMeldungen": [
+						{
+							"statusCode": 100,
+							"statusText": "OK"
+						}
+					]
+				},
+				"endeSchluessel": "A"
+			}
+		],
+		"fehlerStatus": {
+			"statusMeldungen": [
+				{
+					"statusCode": 100,
+					"statusText": "OK"
+				}
+			]
+		}
+	},
+	"posts": [
+		{
+			"id": 1,
+			"title": "Michaela 1"
+		},
+		{
+			"id": 2,
+			"title": "Heike 2"
+		},
+		{
+			"id": 3,
+			"title": "Nicole 3"
+		}
+	],
+	"comments": [
+		{
+			"id": 1,
+			"body": "some comment",
+			"postId": 1
+		},
+		{
+			"id": 2,
+			"body": "some comment",
+			"postId": 1
+		}
+	],
+	"profile": {
+		"name": "typicode"
+	}
+}
+
   "posts": [
     { "id": 1, "title": "Michaela 1" },
     { "id": 2, "title": "Heike 2" },
